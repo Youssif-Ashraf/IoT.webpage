@@ -1,0 +1,31 @@
+/*Start head*/
+.header{
+    height: 100px;
+}
+/*End head*/
+
+/*Start work*/
+.work .title h2{
+    font-size: 35px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 27px;
+    text-transform: capitalize;
+    color: black;
+}
+
+.work .title h2 span{color: #fc3a00}
+
+.work .title img{
+    padding-left: 550px
+}
+
+
+.work .container .title p{
+    text-align:justify;
+    line-height: 33px;
+    color: #a0a0a0;
+}
+
+/*End work*/

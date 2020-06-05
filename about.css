@@ -1,0 +1,42 @@
+/*Start head*/
+.header{
+    height: 100px;
+}
+/*End head*/
+
+/*Start about*/
+.about .container h3,
+.about .title h2{
+    font-size: 35px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 27px;
+    text-transform: capitalize;
+    color: black;
+}
+
+.about .container h3 span,
+.about .title h2 span{color: #fc3a00}
+
+.about .container .title img{
+    padding-left: 550px
+}
+
+.about .container p,
+.about .title p{
+    text-align:justify;
+line-height: 33px;
+    color: #a0a0a0;
+}
+
+.about .container h3{
+    font-size: 25px;
+    text-align: justify;
+    text-transform: capitalize;
+}
+
+.about .container img{
+    padding-left: 100px
+}
+/*End about*/

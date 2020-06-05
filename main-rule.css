@@ -1,0 +1,73 @@
+/*Start the main rules*/
+.container{
+    margin: auto;
+    width: 1170px;
+}
+body{
+    margin:0;
+    padding: 0;  
+}
+/*End the main rules*/
+
+/*Start Header*/
+.header{
+    overflow: hidden;
+    padding: 0;
+    margin: 0;
+}
+
+.header .bar{
+    position: fixed;
+    float: left;
+    background-color: rgba(250,250,250); 
+    overflow: hidden;
+    width: 100%;
+}
+
+.header .bar p{
+    text-transform: capitalize;
+    font-weight:700;
+    font-family:sans-serif;
+    font-size: 25px;
+    float: left;
+    margin: 0 auto;
+    padding:20px 350px 12px 35px;
+   }
+
+.header .bar p span{color:#fc3a00}
+
+.header .bar ul {
+    list-style: none;
+    overflow:hidden;
+    float: left;
+}
+
+.header .bar ul li{
+    float: left;
+    font-family: sans-serif;
+    text-transform: capitalize;
+    font-weight: 600;
+    font-size: 10px;
+    margin: 0 auto;
+    padding:10px;
+    color: #a0a0a0;
+}
+
+.header .bar ul li a:hover{cursor: pointer}
+
+.header .bar ul li a{
+    color: #a0a0a0;
+    text-decoration: none;
+}
+
+
+.header .bar ul li a:hover{color: #fc3a00;}
+
+.header img {
+  right: 0;
+  bottom: 0;
+  width: 100%;
+    float:left;
+    position:static;
+}
+/*End Header*/

@@ -1,0 +1,35 @@
+/*Start head*/
+.header{
+    height: 100px;
+}
+/*End head*/
+
+/*Start refe*/
+.refe .title h2{
+    font-size: 35px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 27px;
+    text-transform: capitalize;
+    color: black;
+}
+
+.refe .title h2 span{color: #fc3a00}
+
+.refe .title img{
+    padding-left: 550px;
+    padding-top:18px;
+    padding-bottom: 41px;
+}
+
+
+.refe .title ol li{
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    margin: 15px auto;
+    padding:15px;
+    color: #a0a0a0;
+}
+/*End refe*/

@@ -1,0 +1,45 @@
+/*Start head*/
+.header{
+    height: 100px;
+}
+/*End head*/
+
+/*Start application*/
+.application .title h2{
+    font-size: 35px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 27px;
+    text-transform: capitalize;
+    color: black;
+}
+
+.application .title h2 span{color: #fc3a00}
+
+.application .title img{
+    padding-left: 550px;
+        padding-top:18px;
+    padding-bottom: 41px;
+}
+
+
+.application  table td,
+.application  table tr{
+    padding: 35px ;
+    border: 1px solid #fc3a00;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 13px;
+    text-align: center;
+     color: #a0a0a0;
+    paddi
+}
+
+#content{
+    line-height: 28px; 
+}
+
+/*End application*/
